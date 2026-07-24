@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "",
+  "version": "1.1.0",
+  "download_url": "https://github.com/Jacksonhob/ai-prompt-update-server/releases/download/v1.1.0/AI.zip",
   "update_log": "首个正式版本",
   "force_update": false
 }
